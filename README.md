@@ -17,3 +17,12 @@ Basically, just using process.argv list in the .js script.
 ## 3. Turning solutions into self project
 
 Replacing process.argv list with specific path or file on the server. 
+
+## 4. Contents
+
+Chp0: Introduction to Express.js (http://evanhahn.com/understanding-express/)
+
+Chp1: The Expressworks
+
+Chp2: My corresponding DIY works
+
