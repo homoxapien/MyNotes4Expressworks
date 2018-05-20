@@ -12,11 +12,23 @@ $ chmod 744 fcc-expressworks/setup.sh && fcc-expressworks/setup.sh && source ~/.
 
 ## 2. Solving challenges given in the workshop
 
-Basically, just using process.argv list in the .js script.
+Basically, just using process.argv list in the .js script. 
+
+Then,
+
+$ expressworks run XXX.js
+
+$ expressworks verify XXX.js
 
 ## 3. Turning solutions into self project
 
 Replacing process.argv list with specific path or file on the server. 
+
+Then,
+
+$ node XXX.js
+
+When finish, press crtl+C to end the session.
 
 ## 4. Contents
 
